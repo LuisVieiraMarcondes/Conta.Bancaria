@@ -11,7 +11,7 @@ Logo Após criamos os métodos construtores para a Conta, Sacar, Depositar, Tran
 um método sobrescrito (override) ToString, retornando uma string com o Tipo de conta, Saldo, nome e credito.
 Assim, finalizando a classe Conta.
 
-Após a classe conta ser finalizada, implementamos um metodo de Opcao do usuario
+Após a classe conta ser finalizada, implementamos ao programa um metodo de Opcao do usuario
 criando menu com uma estrutura condicional switch/case que ira percorrer os metodos :
 ListarConta, InserirConta, Transferir, Sacar, Depositar, ou sair.
 
