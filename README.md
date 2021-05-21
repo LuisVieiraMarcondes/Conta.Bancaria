@@ -1,6 +1,6 @@
 # Conta.Bancaria
 
-<img src="ContaMenu.png" width="600px"/>
+<img src="ContaMenu.png" width="450px"/>
      
 Projeto DIO conta bancária .NET
 
