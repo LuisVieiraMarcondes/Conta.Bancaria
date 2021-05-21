@@ -1,5 +1,7 @@
 # Conta.Bancaria
 
+<img src="ContaBancaria.png" width="250px"/>
+     
 Projeto DIO conta bancária .NET
 
 Nesse projeto de conta bancária introduzido no .NET, começamos a criação do projeto
